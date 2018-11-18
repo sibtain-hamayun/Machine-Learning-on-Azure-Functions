@@ -22,3 +22,5 @@ Welcome to the Machine-Learning-on-Azure-Functions wiki!
 
 ![stack Overflow](http://lmsotfy.com/so.png)
 
+[![temp.png](https://i.postimg.cc/NMDpqDNY/temp.png)](https://postimg.cc/xJkKLvDF)
+
